@@ -1,0 +1,16 @@
+footer{
+    height: 400px;
+    background-color: black;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+h5{
+    color: white;
+    border-bottom: 1px;
+    border-color: white;
+    border-style: none none solid none 
+}
+li a{
+    color: #808080;
+}
